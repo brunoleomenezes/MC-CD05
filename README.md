@@ -1,6 +1,6 @@
 # Large Language Models – MC-CD05
 
-Bruno Menezes e Daniel Senna
+Bruno Menezes e Daniel de Senna
 
 
 **Duração:** 2h30 (2 dias)
@@ -8,7 +8,7 @@ Bruno Menezes e Daniel Senna
 
 * **09/02/2026** – 11:00–12:30
 * **10/02/2026** – 13:30–15:00
-* **11/02/2026** – 15:00–16:30
+* **11/02/2026** – 15:00–16:30 (Sobre Agentes com o professor Eduardo Bezerra)
 
 ---
 
@@ -64,26 +64,26 @@ Livro SBC:
 
 ## Bibliografia
 
-1. Bai, Y. et al. *Qwen2: Scaling Open Models for Multilingual and Multimodal Understanding.* Alibaba DAMO Academy, arXiv:2407.10671 (2024).
+1. Yang, A. et al. *Qwen2 Technical Report.* arXiv:2407.10671 (2024).
    [https://arxiv.org/abs/2407.10671](https://arxiv.org/abs/2407.10671)
 
-2. Qian, J. et al. *Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution.* arXiv:2409.12191 (2025).
+2. Wang, P. et al. *Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution.* arXiv:2409.12191 (2025).
    [https://arxiv.org/abs/2409.12191](https://arxiv.org/abs/2409.12191)
 
-3. Jiang, A. Q. et al. *Mixtral 8×7B: A Mixture-of-Experts Language Model.* Mistral AI Technical Report, arXiv:2401.04088 (2024).
+3. Jiang, A. Q. et al. *Mixtral of Experts.* arXiv:2401.04088 (2024).
    [https://arxiv.org/abs/2401.04088](https://arxiv.org/abs/2401.04088)
 
-4. Zhang, Y. et al. *DeepSeek Coder V2: Scaling Open Code Models with Mixture-of-Experts.* arXiv:2410.03810 (2024).
-   [https://arxiv.org/abs/2410.03810](https://arxiv.org/abs/2410.03810)
+4. Zhang, Y. et al. *DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence.* arXiv:2406.11931 (2024).  
+   [https://arxiv.org/abs/2406.11931](https://arxiv.org/abs/2406.11931)   
 
-5. Touvron, H. et al. *LLaMA 3: Open Foundation and Chat Models.* Meta AI Technical Report, arXiv:2407.21783 (2024).
-   [https://arxiv.org/abs/2407.21783](https://arxiv.org/abs/2407.21783)
+5. Touvron, H. et al. *LLaMA: Open and Efficient Foundation Language Models* Meta AI Technical Report, arXiv:2302.13971 (2023).
+   [https://arxiv.org/abs/2302.13971](https://arxiv.org/abs/2302.13971)
 
-6. Xu, Y. et al. *Revisiting Group Relative Policy Optimization.* arXiv:2505.22257v1 (2025).
+6. Mroueh, Y. et al. *Revisiting Group Relative Policy Optimization.* arXiv:2505.22257v1 (2025).
    [https://arxiv.org/abs/2505.22257](https://arxiv.org/abs/2505.22257)
 
-7. Li, K. et al. *Efficient Fine-Tuning of Quantized LLMs via Three-Stage Optimization.* ICLR 2025 submission.
-   [https://openreview.net/forum?id=zcx6rIMbbR](https://openreview.net/forum?id=zcx6rIMbbR)
+7. Zhou, C. et al. *Efficient Fine-Tuning of Quantized LLMs via Three-Stage Optimization.* ICLR 2025 submission.
+   [https://openreview.net/forum?id=zcx6rIMbbR](https://openreview.net/forum?id=zcx6rIMbbR) 
 
 8. Dettmers, T. et al. *QLoRA: Efficient Finetuning of Quantized LLMs.* NeurIPS (2023).
    [https://arxiv.org/abs/2305.14314](https://arxiv.org/abs/2305.14314)

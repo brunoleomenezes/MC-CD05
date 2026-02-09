@@ -1,4 +1,4 @@
-# Large Language Models e Agentes – MC-CD05
+# Large Language Models – MC-CD05
 
 Bruno Menezes e Daniel Senna
 

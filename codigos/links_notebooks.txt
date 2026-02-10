@@ -1,3 +1,3 @@
 Notebook 01 - https://colab.research.google.com/drive/1MHzNMBShlUK-6Cz5n6pXkyVxHobZTSQj
-Notebook 02 - Em breve
+Notebook 02 - https://colab.research.google.com/drive/1GVvsHgRhHRtpQf3oniIFkFy_E7lxUtw7
 Notebook 03 - https://colab.research.google.com/drive/12UVOA6ouswjddd0SvKM4x7G4xxVeYfeV

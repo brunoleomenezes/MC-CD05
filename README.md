@@ -3,6 +3,18 @@
 Bruno Menezes e Daniel de Senna
 
 
+## Vídeos do Minicurso (LNCC / YouTube)
+
+### Aula 1 — Fundamentos de LLMs e Transformers
+[![Aula 1 – Fundamentos de LLMs](https://img.youtube.com/vi/XqyVUyrIYG8/hqdefault.jpg)](https://www.youtube.com/live/XqyVUyrIYG8?si=kmw4Z-0PvCFeXS-2)
+
+---
+
+### Aula 2 — Fine-Tuning, Alinhamento e Avaliação
+[![Aula 2 – Fine-Tuning e Alinhamento](https://img.youtube.com/vi/v72LFSUw9D4/hqdefault.jpg)](https://www.youtube.com/live/v72LFSUw9D4?si=SU0VqFl4tO-uFqPs)
+
+
+
 **Duração:** 2h30 (2 dias)
 **Datas e horários:**
 
